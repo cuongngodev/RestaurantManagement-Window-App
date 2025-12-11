@@ -4,6 +4,29 @@ A modern, full-featured Windows desktop application built with WPF and .NET 8 fo
 
 ## 📋 Overview
 The Restaurant Management System is a comprehensive solution designed to digitize and simplify restaurant operations. Built using Windows Presentation Foundation (WPF), it offers an intuitive graphical interface that separates concerns between administrative tasks and customer ordering experiences.
+## 📷 App Screenshots
+Below are screenshots from the application (files located in PIII_Project_RestaurantApp/AppScreenshots/):
+
+### Welcome Page
+![Welcome Page](PIII_Project_RestaurantApp/AppScreenshots/welcome-page.png)
+
+### Menu Page
+![Menu Page](PIII_Project_RestaurantApp/AppScreenshots/menu-page.png)
+
+### Cart Page
+![Cart Page](PIII_Project_RestaurantApp/AppScreenshots/cart-page.png)
+
+### Order History
+![Order History](PIII_Project_RestaurantApp/AppScreenshots/order-history.png)
+
+### Admin / Owner Dashboard
+![Owner Dashboard](PIII_Project_RestaurantApp/AppScreenshots/owner-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](PIII_Project_RestaurantApp/AppScreenshots/admin-dashboard.png)
+
+### Generate Report (by date)
+![Generate Report by Date](PIII_Project_RestaurantApp/AppScreenshots/owner-generate-report-by-date.png)
 
 ## ✨ Key Features
 ### 👨‍💼 Owner Features
